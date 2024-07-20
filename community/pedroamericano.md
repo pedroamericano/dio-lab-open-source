@@ -19,5 +19,5 @@ Meu intuito é continuar aprimorando minhas habilidades técnicas e soft Skills 
 </br>
 ## **Objetivo Desta atividade**
 Aprender a como colaborar com projetos open source utilizando o GitHub.
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+
 
